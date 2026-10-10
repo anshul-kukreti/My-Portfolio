@@ -1,4 +1,4 @@
-"Portfolio Preview" (portfolio-preview.png)
+<img src="./portfolio-preview.png" alt="Anshul Kukreti Portfolio Preview" width="100%">
 
 Anshul Kukreti — Frontend Developer
 
