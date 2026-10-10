@@ -1,3 +1,5 @@
+"Portfolio Preview" (portfolio-preview.png)
+
 Anshul Kukreti — Frontend Developer
 
 Hi! 👋 I'm Anshul, a frontend developer learning to build responsive and interactive websites using modern web technologies.
